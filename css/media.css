@@ -1,8 +1,8 @@
 @media (max-width: 576px) {
-  h1 span .typing {
-    font-size: 2rem; 
+  h1 .typing {
+    font-size: 2rem;
   }
-  h1 span .static {
-    font-size: 1.5rem; 
+  h1 .static {
+    font-size: 1.5rem;
   }
 }
