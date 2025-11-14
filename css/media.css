@@ -1,3 +1,5 @@
-@keyframes  {
-    
+@media (max-width: 576px) {
+  .typing {
+    font-size: 1rem; 
+  }
 }
